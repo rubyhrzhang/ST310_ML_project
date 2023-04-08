@@ -1,6 +1,6 @@
 # Predicting song popularity
 
-This is a course project for the ST310 Machine Learning module. We attempt to compare the performance of different prediction models in predicting the popularity of a song based on their characteristics.
+This is a group project for the ST310 Machine Learning module. We attempt to compare the performance of different prediction models in predicting the popularity of a song based on their characteristics.
 
 
 ## Brief description of dataset
